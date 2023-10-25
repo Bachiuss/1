@@ -1,0 +1,15 @@
+C:\Users\pinkm\source\repos\NewTry\NewTry\bin\Debug\net6.0\NewTry.exe
+C:\Users\pinkm\source\repos\NewTry\NewTry\bin\Debug\net6.0\NewTry.deps.json
+C:\Users\pinkm\source\repos\NewTry\NewTry\bin\Debug\net6.0\NewTry.runtimeconfig.json
+C:\Users\pinkm\source\repos\NewTry\NewTry\bin\Debug\net6.0\NewTry.dll
+C:\Users\pinkm\source\repos\NewTry\NewTry\bin\Debug\net6.0\NewTry.pdb
+C:\Users\pinkm\source\repos\NewTry\NewTry\obj\Debug\net6.0\NewTry.csproj.AssemblyReference.cache
+C:\Users\pinkm\source\repos\NewTry\NewTry\obj\Debug\net6.0\NewTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinkm\source\repos\NewTry\NewTry\obj\Debug\net6.0\NewTry.AssemblyInfoInputs.cache
+C:\Users\pinkm\source\repos\NewTry\NewTry\obj\Debug\net6.0\NewTry.AssemblyInfo.cs
+C:\Users\pinkm\source\repos\NewTry\NewTry\obj\Debug\net6.0\NewTry.csproj.CoreCompileInputs.cache
+C:\Users\pinkm\source\repos\NewTry\NewTry\obj\Debug\net6.0\NewTry.dll
+C:\Users\pinkm\source\repos\NewTry\NewTry\obj\Debug\net6.0\refint\NewTry.dll
+C:\Users\pinkm\source\repos\NewTry\NewTry\obj\Debug\net6.0\NewTry.pdb
+C:\Users\pinkm\source\repos\NewTry\NewTry\obj\Debug\net6.0\NewTry.genruntimeconfig.cache
+C:\Users\pinkm\source\repos\NewTry\NewTry\obj\Debug\net6.0\ref\NewTry.dll
